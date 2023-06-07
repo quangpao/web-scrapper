@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'visbycf thinoblique';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-thinoblique.otf');
+}
+
+@font-face {
+    font-family: 'visbycf thin';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-thin.otf');
+}
+
+@font-face {
+    font-family: 'visbycf regularoblique';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-regularoblique.otf');
+}
+
+@font-face {
+    font-family: 'visbycf regular';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-regular.otf');
+}
