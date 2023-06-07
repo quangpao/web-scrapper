@@ -43,7 +43,7 @@
     padding-bottom: 20px !important;
     height: fit-content !important;
     font-size: 1.2rem !important;
-    font-family: 'visbycf thin';
+    font-family: 'visbycf light';
 }
 
 .menu-item-2 {
@@ -51,7 +51,7 @@
     padding-bottom: 20px !important;
     height: fit-content !important;
     font-size: 1.2rem !important;
-    font-family: 'visbycf regular';
+    font-family: 'visbycf medium';
 }
 
 .button-scrapper {
@@ -60,4 +60,46 @@
     background-color: #E4A5FF;
     color: #fff;
     height: 2em !important;
+}
+
+.output {
+    margin: 0 50px;
+    margin-top: 40px;
+}
+
+.output-terminal {
+    border: 2px ridge #F8E8EE;
+    height: 2em;
+    background-color: #F9F5F6;
+}
+
+.terminal-text {
+    font-family: 'visbycf regular';
+    font-size: 1.1rem;
+    color: #d06dfb !important;
+    padding: 10px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.settings {
+    text-align: center;
+}
+
+.settings-radio:checked {
+    border-color: #d06dfb !important;
+}
+
+.input-data {
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+.ant-input {
+    font-family: 'visbycf medium' !important;
+}
+
+.facebook-login, .facebook-cookies {
+    margin-top: 30px;
 }

@@ -17,3 +17,28 @@
     font-family: 'visbycf regular';
     src: url('../../public/fonts/Fontspring-DEMO-visbycf-regular.otf');
 }
+
+@font-face {
+    font-family: 'visbycf medium';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-medium.otf');
+}
+
+@font-face {
+    font-family: 'visbycf light';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-light.otf');
+}
+
+@font-face {
+    font-family: 'visbycf lightoblique';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-lightoblique.otf');
+}
+
+@font-face {
+    font-family: 'visbycf bold';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-bold.otf');
+}
+
+@font-face {
+    font-family: 'visbycf boldoblique';
+    src: url('../../public/fonts/Fontspring-DEMO-visbycf-boldoblique.otf');
+}
